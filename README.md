@@ -21,7 +21,7 @@ Realised in the course of the Bosch AI Talent Accelerator Scholarship Bootcamp, 
 
 ##### Step 1
 
-Here we go creating the folder and files in *Bash* [^2][^3][^6]
+Here we go creating the folder and files in *Bash* [^2][^3][^4]
 ````
 mkdir starter_files
 
@@ -51,13 +51,13 @@ git clone git@github.com:Benjamin-Ogunsade/CI-CD-practice.git
 
 ##### Step 4
 
-Navigate into the remote repo directory[^6][^7]:
+Navigate into the remote repo directory[^4][^5]:
 
 ````
 cd CI-CD-practice/
 ls
 ````
-Move the created folder into the current directory[^6][^7]: 
+Move the created folder into the current directory[^4][^5]: 
 ````
 mv     ~/azure-devops/starter_files/     .
 ls
@@ -65,7 +65,7 @@ ls
 
 ##### Step 5
 
-It's time to commit (save changes) and push (upload/publish modifications)[^4]:
+It's time to commit (save changes) and push (upload/publish modifications)[^6]:
 ````
 git init
 git status
@@ -83,7 +83,7 @@ ls
 [^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 [^2]: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
 [^3]: https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files
-[^4]: https://www.codegrepper.com/code-examples/shell/how+to+push+a+folder+to+github+repository
-[^5]: https://stackoverflow.com/questions/5667106/how-to-delete-or-change-directory-of-a-cloned-git-repository-on-a-local-computer
-[^6]: https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/bash/bash-commands-to-manage-directories-files/#:~:text=Delete%20a%20Directory%20(%20rm%20%2Dr,%2Dr%20directory%2Dname%20).
-[^7]: https://www.tomshardware.com/how-to/delete-directory-or-file-in-linux
+[^4]: https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/bash/bash-commands-to-manage-directories-files/#:~:text=Delete%20a%20Directory%20(%20rm%20%2Dr,%2Dr%20directory%2Dname%20).
+[^5]: https://www.tomshardware.com/how-to/delete-directory-or-file-in-linux
+[^6]: https://www.codegrepper.com/code-examples/shell/how+to+push+a+folder+to+github+repository
+[^7]: https://stackoverflow.com/questions/5667106/how-to-delete-or-change-directory-of-a-cloned-git-repository-on-a-local-computer
