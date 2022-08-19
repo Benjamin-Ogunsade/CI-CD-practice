@@ -31,7 +31,7 @@ ls
 
 ##### Step 3
 
-$ git clone git@github.com:Benjamin-Ogunsade/CI-CD-practice.git
+<i> $ git clone git@github.com:Benjamin-Ogunsade/CI-CD-practice.git  </i>
 
 ##### Step 4
 
