@@ -4,7 +4,7 @@ install:
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
 lint:
-	pylint --disable=R,C hello.py --name omooba --color blue
+	pylint --disable=R,C hello.py 
 test:
-	python -m pytest -vv test_hello.py
+	python -m pytest -vv test_hello.py --name omooba --color blue
 	
