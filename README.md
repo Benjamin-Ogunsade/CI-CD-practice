@@ -1,5 +1,7 @@
 # CI-CD-practice
 
+[![Python application test with GitHub Actions](https://github.com/Benjamin-Ogunsade/CI-CD-practice/actions/workflows/main.yml/badge.svg)](https://github.com/Benjamin-Ogunsade/CI-CD-practice/actions/workflows/main.yml)
+
 ### Introduction
 Realised in the course of the Bosch AI Talent Accelerator Scholarship Bootcamp, Devops path.
 
