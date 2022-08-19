@@ -77,7 +77,11 @@ git push
 ls
 ````
 
-:+1: O kaare Omooba 'Deposi n'Ilare n'le-ife
+###### Conclusion
+
+Peradventure you encounter challenges along the way, kindly consult the following resources [^1][^2][^3][^4][^5][^6][^7] 
+
+:+1: O kaare Omooba 'Deposi n'Ilare n'Ile-ife
 
 
 [^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
