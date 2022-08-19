@@ -4,9 +4,8 @@
 Realised in the course of the Bosch AI Talent Accelerator Scholarship Bootcamp, Devops path.
 
 ####  System Requirements
-* Terminal Environment: Bash on AzureCLI
+* ddTerminal Environment: Bash on AzureCLI
 * Clone repo to AzureCLI
-* 
 
 #### Steps
 
