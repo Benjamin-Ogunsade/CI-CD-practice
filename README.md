@@ -32,11 +32,16 @@ ls
 
 mv ~/azure-devops/starter_files/ .
 
-<git init>
-<git status>
-git add starter_files/
+git init
+
 git status
+
+git add starter_files/
+
+git status
+
 git commit -m "Starter files first commit"
+
 git push
 
 
