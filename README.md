@@ -72,4 +72,4 @@ git commit -m "Starter files first commit"
 git push
 ````
 
-[^] :+1: O kaare Omooba 'Deposi n'Ilare n'le-ife
+[^note] :+1: O kaare Omooba 'Deposi n'Ilare n'le-ife
