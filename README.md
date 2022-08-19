@@ -54,22 +54,26 @@ Navigate into the remote repo directory
 
 ````
 cd CI-CD-practice/
+ls
 ````
 Move the created folder into the current directory 
 ````
 mv     ~/azure-devops/starter_files/     .
+ls
 ````
 
 ##### Step 5
 
-
+It's time to commit (save changes) and push (upload/publish modifications):
 ````
 git init
 git status
 git add starter_files/
 git status
 git commit -m "Starter files first commit"
+git status
 git push
+ls
 ````
 
-:+1: O kaare Omooba 'Deposi n'Ilare n'le-ife[^1].
+:+1: O kaare Omooba 'Deposi n'Ilare n'le-ife
