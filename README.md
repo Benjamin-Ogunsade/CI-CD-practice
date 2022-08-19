@@ -20,13 +20,20 @@ Realised in the course of the Bosch AI Talent Accelerator Scholarship Bootcamp, 
 #### Commands to prepare the environment
 
 ##### Step 1
+mkdir starter_files
+
+cd starter_files/
+
+touch  hello.py Makefile  requirements.txt  test_hello.py
+
+ls
 
 
 
 mv ~/azure-devops/starter_files/ .
 
 <git init>
-git status
+<git status>
 git add starter_files/
 git status
 git commit -m "Starter files first commit"
