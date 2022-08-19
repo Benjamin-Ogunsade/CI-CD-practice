@@ -41,6 +41,12 @@ Here is a link to the created [repo](https://github.com/Benjamin-Ogunsade/CI-CD-
 git clone git@github.com:Benjamin-Ogunsade/CI-CD-practice.git
 ````
 
+![clone my devops github repository](https://user-images.githubusercontent.com/28298236/185532123-5c6f253f-677c-4d97-aee2-510a09e85160.jpg)
+
+
+
+
+
 ##### Step 4
 
 ````
