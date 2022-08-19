@@ -10,7 +10,7 @@ Realised in the course of the Bosch AI Talent Accelerator Scholarship Bootcamp, 
 
 #### Steps
 
-1. Download or prepare the folder containing the source files[^1]
+1. Download or prepare the folder containing the source files[^1,2]
 2. Create manually a new GitHub repo
 3. Clone new repo to AzureCLI
 4. Move the newly created  source files' folder to the newly created repo: to permit git commands to act upon/access this folder
@@ -80,3 +80,6 @@ ls
 
 
 [^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[^2]: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
+[^3]:
+
