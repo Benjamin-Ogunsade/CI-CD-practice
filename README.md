@@ -4,7 +4,8 @@
 Realised in the course of the Bosch AI Talent Accelerator Scholarship Bootcamp, Devops path.
 
 ####  System Requirements
-* ddTerminal Environment: Bash on AzureCLI
+* Establish SSH authentification and connection from AzureCLI to remote GitHub repo 
+* Terminal Environment: Bash on AzureCLI
 * Clone repo to AzureCLI
 
 #### Steps
@@ -24,7 +25,7 @@ Realised in the course of the Bosch AI Talent Accelerator Scholarship Bootcamp, 
 
 mv ~/azure-devops/starter_files/ .
 
-git init
+<git init>
 git status
 git add starter_files/
 git status
