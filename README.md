@@ -31,6 +31,10 @@ touch  hello.py Makefile  requirements.txt  test_hello.py
 ls
 ````
 
+##### Step 2
+
+Here is a link to the created repo: ``https://github.com/Benjamin-Ogunsade/CI-CD-practice``
+
 ##### Step 3
 
 ````
