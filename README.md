@@ -20,6 +20,7 @@ Realised in the course of the Bosch AI Talent Accelerator Scholarship Bootcamp, 
 #### Commands to prepare the environment
 
 ##### Step 1
+
 mkdir starter_files
 
 cd starter_files/
@@ -28,9 +29,15 @@ touch  hello.py Makefile  requirements.txt  test_hello.py
 
 ls
 
+##### Step 3
 
+$ git clone git@github.com:Benjamin-Ogunsade/CI-CD-practice.git
 
-mv ~/azure-devops/starter_files/ .
+##### Step 4
+
+mv     ~/azure-devops/starter_files/     .
+
+##### Step 5
 
 git init
 
