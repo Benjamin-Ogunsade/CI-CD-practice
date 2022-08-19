@@ -52,9 +52,9 @@ git clone git@github.com:Benjamin-Ogunsade/CI-CD-practice.git
 
 Navigate into the remote repo directory
 
-``
+````
 cd CI-CD-practice/
-``
+````
 Move the created folder into the current directory 
 ````
 mv     ~/azure-devops/starter_files/     .
